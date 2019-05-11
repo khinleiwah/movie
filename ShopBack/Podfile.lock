@@ -1,0 +1,16 @@
+PODS:
+  - KRPullLoader (1.2.0)
+
+DEPENDENCIES:
+  - KRPullLoader
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KRPullLoader
+
+SPEC CHECKSUMS:
+  KRPullLoader: 58617a4d2d6c08bec489c05691fcda328041416c
+
+PODFILE CHECKSUM: 8e6cc5b312f19edf9ff3ff7aefa1b3e49410183c
+
+COCOAPODS: 1.6.1

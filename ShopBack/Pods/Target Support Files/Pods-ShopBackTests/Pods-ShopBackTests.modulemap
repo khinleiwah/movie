@@ -1,0 +1,6 @@
+framework module Pods_ShopBackTests {
+  umbrella header "Pods-ShopBackTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
